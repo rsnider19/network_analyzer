@@ -1,0 +1,13 @@
+Partner Chris
+Partner Molly
+Company Globex
+Company ACME
+Employee Anne Globex
+Company Hooli
+Employee Abdi Hooli
+Employee Jamie Globex
+Contact Anne Chris email
+Contact Anne Molly call
+Partner Masha
+Contact Abdi Molly email
+Contact Anne Chris coffee
